@@ -61,7 +61,7 @@
     "help-me": "^1.0.0",
     "inherits": "^2.0.1",
     "minimist": "^1.1.0",
-    "mqtt-packet": "^5.0.0",
+    "mqtt-packet": "fingerfoodstudios/mqtt-packet",
     "readable-stream": "^2.1.0",
     "pump": "^1.0.1",
     "reinterval": "^1.0.1",
